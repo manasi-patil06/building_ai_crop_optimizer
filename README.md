@@ -69,3 +69,7 @@ The Data: I'm planning to use open-source crop recommendation datasets from Kagg
 ## Acknowledgments
 Shoutout to the Building AI course team from Reaktor and the University of Helsinki for the project framework.
 Thanks to the open-source data community for making agricultural datasets accessible.
+
+## Basic flowchart of AI crop Optimizer workflow
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/cd0a7813-410d-4929-a405-3d834c049ee2" />
+
