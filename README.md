@@ -48,6 +48,7 @@ The Data: I'm planning to use open-source crop recommendation datasets from Kagg
 
 * **Regression:** Simple time-series forecasting to predict soil moisture depletion and schedule irrigation.
 
+
 ## Challenges
 * **Sensor Quality:**  The app is only as good as the data coming in. If a farmer uses a faulty sensor or inputs wrong numbers, the recommendations won't be accurate.
 
@@ -55,12 +56,14 @@ The Data: I'm planning to use open-source crop recommendation datasets from Kagg
 
 * **Sustainability Risks:** We have to make sure the AI doesn't just chase maximum short-term profit at the expense of stripping the soil of all its nutrients long-term.
 
+
 ## What's next?
 * **Real IoT Testing:** I want to actually hook this up to automated smart valves so the system can water the fields on its own.
 
 * **Disease Detection:** Adding a computer vision feature where you can take a picture of a sick leaf and have the AI diagnose the plant disease.
 
 * **Looking for Help:** I'd love to team up with someone who knows agronomy or hardware development to test this out in a real field.
+
 
 ## Acknowledgments
 Shoutout to the Building AI course team from Reaktor and the University of Helsinki for the project framework.
