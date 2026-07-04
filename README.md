@@ -1,3 +1,9 @@
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/61ac7cea-c5b8-49ab-827d-b1fb6d3ef5e8" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/3509875d-b7cb-4e3d-9a06-9b62f7aecf2b" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/c64c15f8-8fdd-4013-b670-65c049344329" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/6cb63c21-af97-4df6-89c3-e0933f3ac39b" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/5bf26f0e-a628-40cb-8457-7a7ada834823" />
+<img width="1408" height="768" alt="9fa120ce-d5be-43dc-a6e2-8ffa73e98697" src="https://github.com/user-attachments/assets/be6b7204-9dac-46f9-b25e-7fd26a973df5" />
 # AI Crop Optimizer
 
 This is my final project for the Building AI course!| Created by Manasi Patil.
