@@ -37,10 +37,12 @@ def main():
 main()
 ```
 
+
+
 ## Data sources and AI methods
 The Data: I'm planning to use open-source crop recommendation datasets from Kaggle to train the initial model, along with the OpenWeatherMap API for live updates.
 
-###  AI Approach-
+###  AI Approach
 
 * **Challenges:** Using standard algorithms like Random Forest or XGBoost to handle the multi-class problem of picking the right crop type.
 
