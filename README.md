@@ -23,7 +23,7 @@ The idea is to have this run as a simple mobile app or web dashboard that a farm
 2. **The Crunching:** The system compares these live readings against historical regional data.
 3. **The Output:** The farmer gets a clear recommendation on what to plant, plus ongoing alerts on exactly when to irrigate or fertilize based on live weather shifts.
 
-```python
+```python code
 def main():
     # Quick simulation showing how we match crops to soil data
     soil_data = {'nitrogen': 45, 'phosphorus': 50, 'potassium': 42, 'ph': 6.5, 'rainfall_mm': 120, 'humidity_pct': 75}
@@ -35,13 +35,14 @@ def main():
         print("%s Match Score: %.1f%%" % (crop_options[i], prediction_scores[i] * 100.0))
 
 main()
+```
 
 ## Data sources and AI methods
 The Data: I'm planning to use open-source crop recommendation datasets from Kaggle to train the initial model, along with the OpenWeatherMap API for live updates.
 
-#  AI Approach-
+###  AI Approach-
 
-* **Classification:** Using standard algorithms like Random Forest or XGBoost to handle the multi-class problem of picking the right crop type.
+* **Challenges:** Using standard algorithms like Random Forest or XGBoost to handle the multi-class problem of picking the right crop type.
 
 * **Regression:** Simple time-series forecasting to predict soil moisture depletion and schedule irrigation.
 
