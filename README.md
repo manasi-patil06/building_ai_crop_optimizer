@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/872d8f90-4ac1-47b3-a7e2-75ba3508621d" />
 <img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/61ac7cea-c5b8-49ab-827d-b1fb6d3ef5e8" />
 <img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/3509875d-b7cb-4e3d-9a06-9b62f7aecf2b" />
 <img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/c64c15f8-8fdd-4013-b670-65c049344329" />
@@ -48,7 +49,8 @@ main()
 ## Data sources and AI methods
 The Data: I'm planning to use open-source crop recommendation datasets from Kaggle to train the initial model, along with the OpenWeatherMap API for live updates.
 
-###  AI Approach
+###  AI Approach<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/243a8fd4-f15a-4d92-be72-63cef668b236" />
+
 
 * **Challenges:** Using standard algorithms like Random Forest or XGBoost to handle the multi-class problem of picking the right crop type.
 
@@ -61,6 +63,11 @@ The Data: I'm planning to use open-source crop recommendation datasets from Kagg
 * **Regional Differences:** A model trained on soil data from one part of the world might completely fail in another without proper regional tweaking and retraining.
 
 * **Sustainability Risks:** We have to make sure the AI doesn't just chase maximum short-term profit at the expense of stripping the soil of all its nutrients long-term.
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/5747d76d-8ffd-4ea0-83c8-dc0f2d491475" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/e36febc9-4c45-4716-825d-187dcd5749a1" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/dd2a3a46-b61b-4edb-9f0f-7b4001f4bb7b" />
+<img width="1408" height="768" alt="system_flowchart" src="https://github.com/user-attachments/assets/eae0c1a1-6d58-4303-b120-1ee1c10b7c20" />
+/user-attachments/assets/e1df34f7-078f-4c9f-9307-6c1fff9675a0" />
 
 
 ## What's next?
